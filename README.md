@@ -1,14 +1,6 @@
-#Desafio Ransomware - AES-256-GCM + RSA-2048
+#Desafio Ransomware 
 
-projeto/
-├── config.py
-├── keygen.py
-├── encrypter.py
-├── decrypter.py
-├── sandbox/          # pasta de teste — coloque arquivos .txt aqui
-└── README.md
-
-Objetivo: Implementa criptografia híbrida,o mesmo modelo usado por famílias reais de ransomware (LockBit, REvil,
+Objetivo: Implementa criptografia híbrida AES-256-GCM + RSA-2048,o mesmo modelo usado por famílias reais de ransomware (LockBit, REvil,
 Conti), em escala didática e com modo de simulação.
 
 ## Arquitetura
